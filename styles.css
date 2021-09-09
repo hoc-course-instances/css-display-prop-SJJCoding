@@ -1,0 +1,38 @@
+body {
+    background-color: #333;
+    font-family: Poppins;
+}
+
+section {
+    background-color: #555;
+    padding: 0px 5px 5px 5px;
+    margin-bottom: 20px;
+}
+
+.block {
+    background-color: aqua;
+    display: block;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+p {
+    display: block;
+}
+
+.blu {
+    color: #39feee;
+}
+
+.inline {
+    display: inline;
+    background-color: #39feee;
+    padding: 0px 5px;
+}
+
+.inlineblock {
+    display: inline-block;
+    background-color: #39feee;
+    padding-bottom: 30px;
+}
+
